@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Visión del Proyecto
-Llevar un control preciso en la ganadería suele ser difícil por la falta de conectividad en el campo. **Bovino360** soluciona esto permitiendo la captura de datos rápida en dispositivos móviles, la visualización estratégica en la web y el análisis profundo en hojas de cálculo.
+"Lo que no se mide, no se puede mejorar." > Este proyecto digital transforma la gestión de ganado de un cuaderno de papel a una plataforma de decisiones basada en datos reales.
 
 ## 🛠️ Stack Tecnológico
 

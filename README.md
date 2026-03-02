@@ -1,6 +1,6 @@
 # 🐄 FincaDigital
 
-> **Ecosistema integral para el control de producción, gastos .**
+> **Ecosistema integral para el control de producción, gastos.**
 > Una solución tri-plataforma que conecta el campo con la oficina mediante Web, Mobile y Excel.
 
 ---
